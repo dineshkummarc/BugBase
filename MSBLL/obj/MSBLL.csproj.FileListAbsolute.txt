@@ -1,0 +1,17 @@
+C:\Inetpub\wwwroot\BugTracker\MSBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\BugTracker\MSBLL\bin\Debug\MSBLL.dll
+C:\Inetpub\wwwroot\BugTracker\MSBLL\bin\Debug\MSBLL.pdb
+C:\Inetpub\wwwroot\BugTracker\MSBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Inetpub\wwwroot\BugTracker\MSBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Inetpub\wwwroot\BugTracker\MSBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Inetpub\wwwroot\BugTracker\MSBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Inetpub\wwwroot\BugTracker\MSBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+C:\Inetpub\wwwroot\BugTracker\MSBLL\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Inetpub\wwwroot\BugTracker\MSBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Inetpub\wwwroot\BugTracker\MSBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Inetpub\wwwroot\BugTracker\MSBLL\bin\Debug\Microsoft.Practices.ObjectBuilder.xml
+C:\Inetpub\wwwroot\BugTracker\MSBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Inetpub\wwwroot\BugTracker\MSBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.xml
+C:\Inetpub\wwwroot\BugTracker\MSBLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Inetpub\wwwroot\BugTracker\MSBLL\obj\Debug\MSBLL.dll
+C:\Inetpub\wwwroot\BugTracker\MSBLL\obj\Debug\MSBLL.pdb

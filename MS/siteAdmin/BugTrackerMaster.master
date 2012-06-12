@@ -1,0 +1,51 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="BugTrackerMaster.master.cs" Inherits="MS_siteAdmin_BugTrackerMaster" %>
+<%@ Register Src="userControl/ucFooter.ascx" TagName="ucFooter" TagPrefix="uc2" %>
+<%@ Register Src="userControl/ucHeader.ascx" TagName="ucHeader" TagPrefix="uc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Untitled Page</title>
+    <link href="css/master.css" rel="Stylesheet" ty />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table width="961" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="85%" align="left" valign="top"><img src="images/bug_tracking_logo.jpg" alt="_logo" /></td>
+        </tr>
+      <tr>
+        <td align="left" valign="middle" class="top_nav"><asp:HyperLink ID="h1Login" Text="Login" NavigateUrl="../siteAdmin/Login.aspx" runat="server" BorderWidth="0px" ForeColor="White"></asp:HyperLink><asp:HyperLink ID="hLogout" Text="Logout" Visible="false" NavigateUrl="../siteAdmin/Logout.aspx" runat="server" BorderWidth="0px" ForeColor="White"></asp:HyperLink> | <asp:HyperLink ID="H2Projects" Text="Projects" NavigateUrl="../siteAdmin/Projects.aspx" runat="server" BorderWidth="0px" ForeColor="White"></asp:HyperLink> | <asp:HyperLink ID="H3Bugs" Text="Bugs" NavigateUrl="../siteAdmin/showBuglist.aspx" runat="server" BorderWidth="0px" ForeColor="White"></asp:HyperLink> | <asp:HyperLink ID="H4Comments" Text="Comments" NavigateUrl="../siteAdmin/Comments.aspx" runat="server" BorderWidth="0px" ForeColor="White"></asp:HyperLink> | <asp:HyperLink ID="H5Logfile" Text="Log File" NavigateUrl="../siteAdmin/LogFile.aspx" runat="server" BorderWidth="0px" ForeColor="White"></asp:HyperLink></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" class="white_bg">
+      <table width="941" border="0" align="center" cellpadding="0" cellspacing="0" 
+    class="margin_10">
+      <tr>
+        <td align="left" valign="top">
+         <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        </asp:contentplaceholder>
+        </td>
+        </tr>
+      <tr>
+        <td align="left" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+  </table>
+   <table width="961" border="0" align="center" cellpadding="0" cellspacing="0"><tr><td>
+       <uc2:ucFooter ID="UcFooter1" runat="server" />
+   
+   </td></tr></table>
+    
+    </form>
+</body>
+</html>

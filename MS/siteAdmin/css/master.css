@@ -1,0 +1,148 @@
+
+/* 				GLOBAL AND REST VALUES 				*/
+body,
+h1,h2,h3,h4,
+form, p{
+	padding:0px;
+	margin:0px;
+	color:#000000;
+	font-family:Tahoma, Arial, Helvetica, sans-serif, Verdana;
+	font-size:11px;
+	border:none;
+	border:0px;
+	text-align:justify;
+}
+body
+{
+	background-image:url(../images/top_bg.gif);
+	background-repeat:repeat-x;
+	padding:0px;
+	margin:0px;
+
+}
+a, img
+	{
+	border:none;
+	border:0px;
+	}
+.margin_10
+	{
+	margin-top:10px;
+	margin-bottom:10px;
+	}
+.white_bg
+	{
+	background-color:#FFFFFF;
+	}
+.heading_text
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:17px;
+	font-weight:bold;
+	color:#097196;
+	}
+.heading_text_2
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:21px;
+	font-weight:bold;
+	color:#ff6600;
+	}
+.top_nav
+	{
+	background-image:url(../images/left_nav_1.gif);
+	padding-left:7px;
+	padding-right:7px;
+	background-repeat:repeat-x;
+	height:26px;
+	color:#FFFFFF;
+	}
+.button_bg
+	{
+	border:1px solid #016285;
+	height:20px;
+	background-color:#137aa4;
+	color:#FFFFFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:11px;
+	}
+
+.footer_bg
+{
+	background-image:url(../images/footer_bg.gif);
+	background-repeat:repeat-x;
+	height:18px;
+	font-size:11px;
+}
+.white_text
+{
+	color:#FFFFFF;
+}
+.textarea_box
+	{
+	border:1px solid #016285;
+	height:14px;
+	color:#000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	}
+.dropdown_box
+	{
+	border:1px solid #016285;
+	height:14px;
+	color:#000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	}
+.table_bg
+	{
+	background-color:#10668b;
+	color:#FFFFFF;
+	}
+.table_bg_1
+	{
+	background-color:#cee7f0;
+	color:#000000;
+	}
+	
+	
+	.link_text
+	{
+	color:#000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-decoration:none;
+	font-weight:bold;
+	}
+.link_text:hover
+	{
+	color:#000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-decoration:underline;
+	font-weight:bold;
+	}
+.link_text_blue
+	{
+	color:#097196;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-decoration:none;
+	font-weight:bold;
+	}
+.link_text_blue:hover
+	{
+	color:#097196;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-decoration:underline;
+	font-weight:bold;
+	}
+	
+.errorHeader
+{
+	text-align:center;
+	font-size:12px;
+	color:Red;
+}
